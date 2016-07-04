@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database><table name="testPerson"><data>{"guid":"9ebcfc1e-9f4a-4890-9b33-90f556072ad7","sex":"男","age":30.0,"name":"derek","money":200098.0}</data></table><table name="system.indexs" /><table name="system.users" /></database>
